@@ -1,4 +1,4 @@
-# Link to Firebase Gosting
+# Link to Firebase   Hosting
 
 https://tiktok---jornada-7b65c.web.app
 
